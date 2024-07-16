@@ -1,0 +1,38 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.blue-bg {
+    background: #0e6ffd;
+}
+.green-bg {
+    background: #198754;
+}
+.paste-ng {
+    background: #0dcbf0;
+}
+.section_holder {
+    display: flex;
+    padding:  15px;
+}
+.section_content {
+    display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    width: 33.33%;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 5px;
+}
+
+.brand-title {
+    color: white;
+    font-size: 35px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+.brand_image {
+    width: 100px;
+    height: 100px;
+}
